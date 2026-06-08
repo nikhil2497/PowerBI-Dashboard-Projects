@@ -1,0 +1,35 @@
+# Oil Price Impact Analysis Dashboard
+
+## Overview
+This Power BI dashboard analyzes the relationship between global oil prices, India's imports, exports, inflation, shipping costs, and NIFTY performance.
+
+## Business Problem
+Global geopolitical conflicts often create volatility in oil prices, impacting trade balances, inflation, and stock markets.
+
+## Key Insights
+
+- Oil prices peaked at $100 per barrel in 2022.
+- Shipping costs increased significantly during supply chain disruptions.
+- India's trade deficit widened as imports increased.
+- NIFTY showed moderate correlation with oil prices.
+
+## KPIs
+
+- Average Oil Price
+- India Imports
+- India Exports
+- Inflation Rate
+- Trade Deficit
+- Shipping Cost Index
+
+## Tools Used
+
+- Power BI
+- Excel
+- Data Modeling
+- DAX
+- Data Visualization
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
