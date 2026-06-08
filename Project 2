@@ -1,0 +1,34 @@
+# Project Performance Dashboard
+
+## Overview
+
+This dashboard tracks project execution performance by comparing planned and actual duration, cost, progress percentage, and risk levels.
+
+## Business Problem
+
+Project managers need visibility into delays, cost overruns, and project risks.
+
+## Key Insights
+
+- Project progress averages 70%.
+- Actual costs exceeded planned costs.
+- Multiple projects show medium-to-high risk scores.
+- Delays impact overall delivery timelines.
+
+## KPIs
+
+- Actual Cost
+- Planned Cost
+- Risk Score
+- Progress Percentage
+
+## Tools Used
+
+- Power BI
+- Excel
+- DAX
+- Data Visualization
+
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
