@@ -30,5 +30,5 @@ Tracks project costs, timelines, risks, and progress.
 
 ## Contact
 
-LinkedIn: [Add Your LinkedIn]
-Email: [Add Your Email]
+LinkedIn: www.linkedin.com/in/nikhil-raj-singh-408a61189
+Email: nikhilsingh2497@gmail.com
